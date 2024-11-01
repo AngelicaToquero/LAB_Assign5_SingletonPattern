@@ -11,7 +11,7 @@ public class Main {
         station3.serveNext();
 
         queueSystem.displayQueueNumber();  //display queue
-        station1.resetQueue(10); //reset queue
+        station1.resetQueue(22); //reset queue
         queueSystem.displayQueueNumber(); //display new queue
     }
 }
